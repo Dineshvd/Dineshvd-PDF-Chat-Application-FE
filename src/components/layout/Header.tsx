@@ -23,7 +23,7 @@ const Header: React.FC<HeaderProps> = ({ toggleSidebar, isMobile }) => {
           </button>
         )}
         <div className="flex items-center">
-          <span className="text-xl font-bold">PDF Chat</span>
+          <span className="text-xl font-bold">Sivi.Ai PDF-CHAT</span>
           <span className="ml-2 bg-blue-600 text-white text-xs px-2 py-1 rounded-full">
             Beta
           </span>
